@@ -1,8 +1,10 @@
 <application>
   <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="CARET_BLINKING_PERIOD" value="800" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
     <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
 </application>
