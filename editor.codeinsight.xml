@@ -3,6 +3,6 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="CodeInsightSettings">
-    <option name="REFORMAT_ON_PASTE" value="4" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
   </component>
 </application>
