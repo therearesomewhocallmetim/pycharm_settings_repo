@@ -5,6 +5,7 @@
       <mapping pattern="some file" type="JSON" />
       <mapping ext="bg_tasks" type="PLAIN_TEXT" />
       <mapping ext="devkeys" type="PLAIN_TEXT" />
+      <mapping pattern="util" type="Python" />
     </extensionMap>
   </component>
 </application>
