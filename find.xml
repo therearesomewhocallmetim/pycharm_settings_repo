@@ -2,11 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="models.py" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
@@ -32,6 +32,11 @@
       <mask>*.html</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>m.py</mask>
+      <mask>mo.py</mask>
+      <mask>mod.py</mask>
+      <mask>mode.py</mask>
+      <mask>models.py</mask>
     </recentFileMasks>
   </component>
 </application>
