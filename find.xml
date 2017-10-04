@@ -5,11 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*_tests.py" />
     <recentFileMasks>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*</mask>
       <mask>*.txt</mask>
@@ -30,12 +27,16 @@
       <mask>html</mask>
       <mask>*.html</mask>
       <mask>*.p</mask>
-      <mask>*.py</mask>
       <mask>m.py</mask>
       <mask>mo.py</mask>
       <mask>mod.py</mask>
       <mask>mode.py</mask>
       <mask>models.py</mask>
+      <mask>*.py</mask>
+      <mask>*_.py</mask>
+      <mask>*_te.py</mask>
+      <mask>*_test.py</mask>
+      <mask>*_tests.py</mask>
     </recentFileMasks>
   </component>
 </application>
