@@ -3,19 +3,14 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*</mask>
       <mask>*.txt</mask>
       <mask>*.tx</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
-      <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>.py</mask>
       <mask>url.py</mask>
@@ -26,18 +21,23 @@
       <mask>р</mask>
       <mask>h</mask>
       <mask>html</mask>
-      <mask>*.html</mask>
-      <mask>*.p</mask>
       <mask>m.py</mask>
       <mask>mo.py</mask>
       <mask>mod.py</mask>
       <mask>mode.py</mask>
       <mask>models.py</mask>
-      <mask>*.py</mask>
       <mask>*_.py</mask>
       <mask>*_te.py</mask>
       <mask>*_test.py</mask>
       <mask>*_tests.py</mask>
+      <mask>*.j</mask>
+      <mask>*.json</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>

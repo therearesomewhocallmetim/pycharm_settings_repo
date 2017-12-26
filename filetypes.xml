@@ -6,6 +6,8 @@
       <mapping pattern="ugc_front_run_background_tasks" type="PLAIN_TEXT" />
       <mapping ext="bg_tasks" type="PLAIN_TEXT" />
       <mapping ext="devkeys" type="PLAIN_TEXT" />
+      <mapping ext="po" type="PLAIN_TEXT" />
+      <mapping pattern=".cookiecutterrc" type="Python" />
       <mapping pattern="util" type="Python" />
     </extensionMap>
   </component>
