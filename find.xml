@@ -1,25 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.txt</mask>
-      <mask>*.tx</mask>
-      <mask>*.h</mask>
-      <mask>*.htm</mask>
-      <mask>.py</mask>
-      <mask>url.py</mask>
-      <mask>urls.py</mask>
-      <mask>реьд</mask>
-      <mask>реь</mask>
-      <mask>ре</mask>
-      <mask>р</mask>
-      <mask>h</mask>
       <mask>html</mask>
       <mask>m.py</mask>
       <mask>mo.py</mask>
@@ -38,6 +22,18 @@
       <mask>*.</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>b*.html</mask>
+      <mask>bi*.html</mask>
+      <mask>bil*.html</mask>
+      <mask>bill*.html</mask>
+      <mask>billi*.html</mask>
+      <mask>billin*.html</mask>
+      <mask>billing*.html</mask>
+      <mask>billing/*.html</mask>
+      <mask>billing/.*.html</mask>
+      <mask>billing/.*\.html</mask>
+      <mask>billing/.*\.</mask>
+      <mask>p</mask>
     </recentFileMasks>
   </component>
 </application>
