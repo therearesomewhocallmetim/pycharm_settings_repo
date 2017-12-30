@@ -3,29 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>html</mask>
-      <mask>m.py</mask>
-      <mask>mo.py</mask>
-      <mask>mod.py</mask>
-      <mask>mode.py</mask>
-      <mask>models.py</mask>
-      <mask>*_.py</mask>
-      <mask>*_te.py</mask>
-      <mask>*_test.py</mask>
-      <mask>*_tests.py</mask>
-      <mask>*.j</mask>
-      <mask>*.json</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
-      <mask>b*.html</mask>
-      <mask>bi*.html</mask>
-      <mask>bil*.html</mask>
-      <mask>bill*.html</mask>
       <mask>billi*.html</mask>
       <mask>billin*.html</mask>
       <mask>billing*.html</mask>
@@ -34,6 +13,28 @@
       <mask>billing/.*\.html</mask>
       <mask>billing/.*\.</mask>
       <mask>p</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.python</mask>
+      <mask>*.pytho</mask>
+      <mask>*.pyth</mask>
+      <mask>*.pyt</mask>
+      <mask>billing//*.py</mask>
+      <mask>billing/*/*.py</mask>
+      <mask>billing/**/**.py</mask>
+      <mask>billing/**/*.py</mask>
+      <mask>billing/***.py</mask>
+      <mask>billing/**.py</mask>
+      <mask>billing/*.py</mask>
+      <mask>billing*.py</mask>
+      <mask>billin*.py</mask>
+      <mask>billi*.py</mask>
+      <mask>bill*.py</mask>
+      <mask>bil*.py</mask>
+      <mask>bi*.py</mask>
+      <mask>b*.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
