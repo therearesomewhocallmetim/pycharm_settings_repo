@@ -3,21 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*front*" />
     <recentFileMasks>
-      <mask>billi*.html</mask>
-      <mask>billin*.html</mask>
-      <mask>billing*.html</mask>
-      <mask>billing/*.html</mask>
-      <mask>billing/.*.html</mask>
-      <mask>billing/.*\.html</mask>
-      <mask>billing/.*\.</mask>
-      <mask>p</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.python</mask>
-      <mask>*.pytho</mask>
       <mask>*.pyth</mask>
       <mask>*.pyt</mask>
       <mask>billing//*.py</mask>
@@ -35,6 +22,19 @@
       <mask>bi*.py</mask>
       <mask>b*.py</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>n</mask>
+      <mask>ng</mask>
+      <mask>ngi</mask>
+      <mask>ngin</mask>
+      <mask>nginx</mask>
+      <mask>nginx*</mask>
+      <mask>*nginx*</mask>
+      <mask>*f*</mask>
+      <mask>*fro*</mask>
+      <mask>*front*</mask>
     </recentFileMasks>
   </component>
 </application>
