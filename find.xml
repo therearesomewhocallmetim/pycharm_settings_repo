@@ -3,28 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*front*" />
     <recentFileMasks>
-      <mask>*.pyth</mask>
-      <mask>*.pyt</mask>
-      <mask>billing//*.py</mask>
-      <mask>billing/*/*.py</mask>
-      <mask>billing/**/**.py</mask>
-      <mask>billing/**/*.py</mask>
-      <mask>billing/***.py</mask>
-      <mask>billing/**.py</mask>
-      <mask>billing/*.py</mask>
-      <mask>billing*.py</mask>
-      <mask>billin*.py</mask>
-      <mask>billi*.py</mask>
-      <mask>bill*.py</mask>
       <mask>bil*.py</mask>
       <mask>bi*.py</mask>
       <mask>b*.py</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>n</mask>
       <mask>ng</mask>
       <mask>ngi</mask>
@@ -35,6 +17,23 @@
       <mask>*f*</mask>
       <mask>*fro*</mask>
       <mask>*front*</mask>
+      <mask>*</mask>
+      <mask>*.pyt</mask>
+      <mask>**.py</mask>
+      <mask>*/*.py</mask>
+      <mask>*/l*.py</mask>
+      <mask>*/loc*.py</mask>
+      <mask>*/local*.py</mask>
+      <mask>*/locala*.py</mask>
+      <mask>*/localads*.py</mask>
+      <mask>*/localads/*.py</mask>
+      <mask>*/localads\/*.py</mask>
+      <mask>*\/localads\/*.py</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
