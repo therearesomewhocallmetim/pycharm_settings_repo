@@ -4,36 +4,36 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>bil*.py</mask>
-      <mask>bi*.py</mask>
-      <mask>b*.py</mask>
-      <mask>n</mask>
-      <mask>ng</mask>
-      <mask>ngi</mask>
-      <mask>ngin</mask>
-      <mask>nginx</mask>
-      <mask>nginx*</mask>
-      <mask>*nginx*</mask>
-      <mask>*f*</mask>
-      <mask>*fro*</mask>
-      <mask>*front*</mask>
-      <mask>*</mask>
-      <mask>*.pyt</mask>
-      <mask>**.py</mask>
-      <mask>*/*.py</mask>
-      <mask>*/l*.py</mask>
-      <mask>*/loc*.py</mask>
-      <mask>*/local*.py</mask>
-      <mask>*/locala*.py</mask>
-      <mask>*/localads*.py</mask>
-      <mask>*/localads/*.py</mask>
-      <mask>*/localads\/*.py</mask>
-      <mask>*\/localads\/*.py</mask>
+      <mask>&amp;</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>l</mask>
+      <mask>lo</mask>
+      <mask>loc</mask>
+      <mask>loca</mask>
+      <mask>local</mask>
+      <mask>locala</mask>
+      <mask>localad</mask>
+      <mask>localads</mask>
+      <mask>localads*</mask>
+      <mask>py</mask>
+      <mask>*py</mask>
       <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
+      <mask>ur.py</mask>
+      <mask>url.py</mask>
+      <mask>urls.py</mask>
+      <mask>*http</mask>
+      <mask>*htt</mask>
+      <mask>*ht</mask>
+      <mask>*h</mask>
+      <mask>*</mask>
+      <mask>*.h</mask>
       <mask>*.ht</mask>
+      <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.po</mask>
     </recentFileMasks>
   </component>
 </application>
