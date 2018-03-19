@@ -2,19 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>&amp;</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>l</mask>
-      <mask>lo</mask>
-      <mask>loc</mask>
-      <mask>loca</mask>
-      <mask>local</mask>
-      <mask>locala</mask>
-      <mask>localad</mask>
-      <mask>localads</mask>
       <mask>localads*</mask>
       <mask>py</mask>
       <mask>*py</mask>
@@ -31,9 +22,20 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.po</mask>
+      <mask>*.pc</mask>
+      <mask>*.p</mask>
+      <mask>*.conf</mask>
+      <mask>*.con</mask>
+      <mask>*.co</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.ma</mask>
+      <mask>*.maps</mask>
+      <mask>*.maps.</mask>
+      <mask>*.maps.me</mask>
+      <mask>*.maps.me.</mask>
+      <mask>*.maps.me.*</mask>
     </recentFileMasks>
   </component>
 </application>
