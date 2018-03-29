@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="stunnel" description="Runs stunnel" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="stunnel4" />
+      <option name="PARAMETERS" value="stunnel/dev_https &amp;" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/projects/serverside/localads_billing" />
+    </exec>
+  </tool>
 </toolSet>
