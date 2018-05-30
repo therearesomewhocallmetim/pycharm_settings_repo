@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="test*.py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -13,5 +14,9 @@
     <mask>*.mxml</mask>
     <mask>*.py</mask>
     <mask>*.html</mask>
+    <mask>*.json</mask>
+    <mask>17</mask>
+    <mask>urls.py</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
