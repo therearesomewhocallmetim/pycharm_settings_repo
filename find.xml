@@ -1,45 +1,21 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>localads*</mask>
-      <mask>py</mask>
-      <mask>*py</mask>
-      <mask>*.py</mask>
-      <mask>ur.py</mask>
-      <mask>url.py</mask>
-      <mask>urls.py</mask>
-      <mask>*http</mask>
-      <mask>*htt</mask>
-      <mask>*ht</mask>
-      <mask>*h</mask>
-      <mask>*</mask>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
-      <mask>*.po</mask>
-      <mask>*.pc</mask>
-      <mask>*.p</mask>
-      <mask>*.conf</mask>
-      <mask>*.con</mask>
-      <mask>*.co</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.ma</mask>
-      <mask>*.maps</mask>
-      <mask>*.maps.</mask>
-      <mask>*.maps.me</mask>
-      <mask>*.maps.me.</mask>
-      <mask>*.maps.me.*</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.py</mask>
+    <mask>*.html</mask>
+    <mask>*.json</mask>
+    <mask>17</mask>
+    <mask>urls.py</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
