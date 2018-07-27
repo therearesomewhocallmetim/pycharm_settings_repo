@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -17,5 +18,10 @@
     <mask>17</mask>
     <mask>urls.py</mask>
     <mask>test*.py</mask>
+    <mask>*ini</mask>
+    <mask>*conf*</mask>
+    <mask>test*py</mask>
+    <mask>*html</mask>
+    <mask>*py</mask>
   </component>
 </application>

@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta v" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
