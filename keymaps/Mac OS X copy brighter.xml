@@ -75,4 +75,7 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
 </keymap>
