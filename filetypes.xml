@@ -9,6 +9,7 @@
       <mapping ext="bg_tasks" type="PLAIN_TEXT" />
       <mapping ext="devkeys" type="PLAIN_TEXT" />
       <mapping ext="po" type="PLAIN_TEXT" />
+      <mapping pattern="api" type="Python" />
       <mapping pattern=".cookiecutterrc" type="Python" />
       <mapping pattern="util" type="Python" />
     </extensionMap>
