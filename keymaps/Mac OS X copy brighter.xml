@@ -9,6 +9,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" second-keystroke="enter" />
+  </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -61,6 +64,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="shift meta alt o" />
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
