@@ -1,18 +1,18 @@
 <scheme name="Default copy" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2017-06-03T22:39:28</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2018-09-25T07:24:45</property>
+    <property name="modified">2019-07-30T15:59:30</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
-  <option name="EDITOR_FONT_NAME" value="Avenir Next" />
+  <option name="EDITOR_FONT_SIZE" value="23" />
+  <option name="EDITOR_FONT_NAME" value="Avenir" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
   <colors>
     <option name="CARET_COLOR" value="4a4a4a" />
     <option name="CARET_ROW_COLOR" value="fffdf1" />
