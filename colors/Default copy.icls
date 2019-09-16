@@ -4,7 +4,7 @@
     <property name="created">2017-06-03T22:39:28</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2019-09-12T16:28:09</property>
+    <property name="modified">2019-09-16T21:30:32</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -295,6 +295,13 @@
       <value>
         <option name="FOREGROUND" value="343434" />
         <option name="BACKGROUND" value="fff8f1" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffdf4a" />
+        <option name="ERROR_STRIPE_COLOR" value="71b362" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
