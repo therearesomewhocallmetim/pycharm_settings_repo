@@ -1,0 +1,9 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="CollapseBlock" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+</keymap>
