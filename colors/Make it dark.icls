@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-12-16T23:37:07</property>
+    <property name="modified">2019-12-28T22:36:02</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -14,15 +14,18 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="495246" />
     <option name="CARET_COLOR" value="a6b99d" />
     <option name="CARET_ROW_COLOR" value="2b2e34" />
     <option name="CONSOLE_BACKGROUND_KEY" value="333941" />
+    <option name="DELETED_LINES_COLOR" value="4b2b2f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="244c79" />
     <option name="GUTTER_BACKGROUND" value="363a43" />
     <option name="INDENT_GUIDE" value="344142" />
     <option name="INFORMATION_HINT" value="fffbf4" />
     <option name="LINE_NUMBERS_COLOR" value="8894a3" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="b39f8e" />
+    <option name="MODIFIED_LINES_COLOR" value="3c4c69" />
     <option name="NOTIFICATION_BACKGROUND" value="3b4a4b" />
     <option name="QUESTION_HINT" value="fae3f8" />
     <option name="RIGHT_MARGIN_COLOR" value="828b9f" />
@@ -32,6 +35,7 @@
     <option name="TEARLINE_COLOR" value="3b4a4b" />
     <option name="VISUAL_INDENT_GUIDE" value="828b9f" />
     <option name="WHITESPACES" value="" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="403948" />
   </colors>
   <attributes>
     <option name="BOOKMARKS_ATTRIBUTES">
