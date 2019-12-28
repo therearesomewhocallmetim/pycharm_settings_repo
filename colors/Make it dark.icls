@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-12-29T00:34:41</property>
+    <property name="modified">2019-12-29T00:54:02</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -22,12 +22,12 @@
     <option name="FOLDED_TEXT_BORDER_COLOR" value="244c79" />
     <option name="GUTTER_BACKGROUND" value="363a43" />
     <option name="INDENT_GUIDE" value="344142" />
-    <option name="INFORMATION_HINT" value="fffbf4" />
+    <option name="INFORMATION_HINT" value="5b5b3b" />
     <option name="LINE_NUMBERS_COLOR" value="8894a3" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="b39f8e" />
     <option name="MODIFIED_LINES_COLOR" value="3c4c69" />
     <option name="NOTIFICATION_BACKGROUND" value="3b4a4b" />
-    <option name="QUESTION_HINT" value="fae3f8" />
+    <option name="QUESTION_HINT" value="4b2b2f" />
     <option name="RIGHT_MARGIN_COLOR" value="828b9f" />
     <option name="SELECTED_INDENT_GUIDE" value="7ea9db" />
     <option name="SELECTION_BACKGROUND" value="8f9fa8" />
