@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-12-28T22:36:02</property>
+    <property name="modified">2019-12-29T00:34:41</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -74,6 +74,11 @@
       <value>
         <option name="BACKGROUND" value="282b31" />
         <option name="ERROR_STRIPE_COLOR" value="904ba" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="3774b7" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
