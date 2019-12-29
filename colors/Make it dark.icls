@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-12-29T00:54:02</property>
+    <property name="modified">2019-12-29T02:53:06</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -28,10 +28,12 @@
     <option name="MODIFIED_LINES_COLOR" value="3c4c69" />
     <option name="NOTIFICATION_BACKGROUND" value="3b4a4b" />
     <option name="QUESTION_HINT" value="4b2b2f" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="84937d" />
     <option name="RIGHT_MARGIN_COLOR" value="828b9f" />
     <option name="SELECTED_INDENT_GUIDE" value="7ea9db" />
     <option name="SELECTION_BACKGROUND" value="8f9fa8" />
     <option name="SELECTION_FOREGROUND" value="282b31" />
+    <option name="SEPARATOR_BELOW_COLOR" value="8f8f7f" />
     <option name="TEARLINE_COLOR" value="3b4a4b" />
     <option name="VISUAL_INDENT_GUIDE" value="828b9f" />
     <option name="WHITESPACES" value="" />
@@ -189,6 +191,12 @@
       <value>
         <option name="FOREGROUND" value="88a0c7" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DUPLICATE_FROM_SERVER">
+      <value>
+        <option name="FOREGROUND" value="18191a" />
+        <option name="BACKGROUND" value="9e8b63" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
