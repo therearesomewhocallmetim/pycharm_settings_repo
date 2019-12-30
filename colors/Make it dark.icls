@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-12-30T14:14:32</property>
+    <property name="modified">2019-12-29T02:53:06</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -14,24 +14,30 @@
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
+    <option name="ADDED_LINES_COLOR" value="495246" />
     <option name="CARET_COLOR" value="a6b99d" />
     <option name="CARET_ROW_COLOR" value="2b2e34" />
     <option name="CONSOLE_BACKGROUND_KEY" value="333941" />
+    <option name="DELETED_LINES_COLOR" value="4b2b2f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="244c79" />
     <option name="GUTTER_BACKGROUND" value="363a43" />
     <option name="INDENT_GUIDE" value="344142" />
-    <option name="INFORMATION_HINT" value="fffbf4" />
+    <option name="INFORMATION_HINT" value="5b5b3b" />
     <option name="LINE_NUMBERS_COLOR" value="8894a3" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="b39f8e" />
+    <option name="MODIFIED_LINES_COLOR" value="3c4c69" />
     <option name="NOTIFICATION_BACKGROUND" value="3b4a4b" />
-    <option name="QUESTION_HINT" value="fae3f8" />
+    <option name="QUESTION_HINT" value="4b2b2f" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="84937d" />
     <option name="RIGHT_MARGIN_COLOR" value="828b9f" />
     <option name="SELECTED_INDENT_GUIDE" value="7ea9db" />
     <option name="SELECTION_BACKGROUND" value="8f9fa8" />
     <option name="SELECTION_FOREGROUND" value="282b31" />
+    <option name="SEPARATOR_BELOW_COLOR" value="8f8f7f" />
     <option name="TEARLINE_COLOR" value="3b4a4b" />
     <option name="VISUAL_INDENT_GUIDE" value="828b9f" />
     <option name="WHITESPACES" value="" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="403948" />
   </colors>
   <attributes>
     <option name="BOOKMARKS_ATTRIBUTES">
@@ -70,6 +76,11 @@
       <value>
         <option name="BACKGROUND" value="282b31" />
         <option name="ERROR_STRIPE_COLOR" value="904ba" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="3774b7" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -180,6 +191,12 @@
       <value>
         <option name="FOREGROUND" value="88a0c7" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DUPLICATE_FROM_SERVER">
+      <value>
+        <option name="FOREGROUND" value="18191a" />
+        <option name="BACKGROUND" value="9e8b63" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
@@ -461,34 +478,6 @@
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="9a8eb2" />
-      </value>
-    </option>
-    <option name="REST.EXPLICIT">
-      <value>
-        <option name="FOREGROUND" value="9338a1" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="REST.FIELD">
-      <value>
-        <option name="FOREGROUND" value="9338a1" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="REST.FIXED">
-      <value>
-        <option name="BACKGROUND" value="4c5f53" />
-      </value>
-    </option>
-    <option name="REST.REF.NAME">
-      <value>
-        <option name="FOREGROUND" value="447780" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="REST.SECTION.HEADER">
-      <value>
-        <option name="FOREGROUND" value="bc6a28" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
