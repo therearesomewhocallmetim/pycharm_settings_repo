@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-02-18T11:52:01</property>
+    <property name="modified">2020-02-18T12:40:33</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -376,8 +376,9 @@
     <option name="PY.CLASS_DEFINITION">
       <value>
         <option name="FOREGROUND" value="9cb091" />
-        <option name="EFFECT_COLOR" value="9cb091" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="BACKGROUND" value="3e4d43" />
+        <option name="ERROR_STRIPE_COLOR" value="4c5f53" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="PY.COMMA">
