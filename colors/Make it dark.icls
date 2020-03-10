@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2020-03-02T12:57:53</property>
+    <property name="modified">2020-03-10T15:48:55</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -650,6 +650,12 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c5837e" />
+      </value>
+    </option>
+    <option name="YAML_SCALAR_KEY">
+      <value>
+        <option name="FOREGROUND" value="447780" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
