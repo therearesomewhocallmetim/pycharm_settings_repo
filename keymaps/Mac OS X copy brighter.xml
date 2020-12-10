@@ -70,6 +70,7 @@
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
@@ -91,6 +92,7 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
+  <action id="QuickActionPopup" />
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift meta alt o" />
   </action>
@@ -108,10 +110,14 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="meta alt enter" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
+  <action id="org.jetbrains.r.actions.DebugSelection" />
 </keymap>
