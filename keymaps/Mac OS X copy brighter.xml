@@ -6,12 +6,17 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" second-keystroke="enter" />
   </action>
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -21,6 +26,10 @@
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorKillToWordEnd">
     <keyboard-shortcut first-keystroke="alt d" />
@@ -35,6 +44,8 @@
     <keyboard-shortcut first-keystroke="meta left" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
   <action id="EditorMoveToPageBottom">
     <keyboard-shortcut first-keystroke="meta page_down" />
     <keyboard-shortcut first-keystroke="alt period" />
@@ -43,13 +54,30 @@
     <keyboard-shortcut first-keystroke="meta page_up" />
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
+  <action id="EditorNextWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="EditorToggleShowLineNumbers">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
+  <action id="ExportToTextFile" />
+  <action id="ExpressionTypeInfo" />
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta f3" />
     <keyboard-shortcut first-keystroke="ctrl s" />
@@ -58,23 +86,25 @@
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift meta alt o" />
   </action>
+  <action id="Refresh" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl s" />
   </action>
+  <action id="ServiceView.GroupByServiceGroups" />
+  <action id="ShowContent" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="TodoViewGroupByShowPackages" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>

@@ -1,15 +1,18 @@
 <application>
-  <component name="DefaultFont">
-    <option name="USE_LIGATURES" value="true" />
+  <component name="CodeInsightSettings">
+    <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="false" />
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="CARET_BLINKING_PERIOD" value="800" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
-    <option name="IS_INNER_WHITESPACES_SHOWN" value="false" />
-    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="Avenir Next" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
