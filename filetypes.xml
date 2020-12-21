@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="strings.txt" type="GitIgnore file" />
       <mapping pattern=".dockerignore" type="IgnoreLang file" />
@@ -10,9 +10,9 @@
       <mapping pattern=".flake8-tests" type="PLAIN_TEXT" />
       <mapping pattern=".coverage" type="PLAIN_TEXT" />
       <mapping ext="stew" type="PLAIN_TEXT" />
+      <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping ext="txt" approved="true" type="requirements.txt" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
-      <removed_mapping ext="env" approved="true" type="Env File" />
       <mapping pattern="__*.env" type=".env file" />
       <mapping pattern="__.env" type=".env file" />
     </extensionMap>
