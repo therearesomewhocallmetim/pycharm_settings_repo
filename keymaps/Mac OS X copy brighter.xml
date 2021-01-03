@@ -20,6 +20,12 @@
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
@@ -83,6 +89,8 @@
     <keyboard-shortcut first-keystroke="meta f3" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
@@ -116,6 +124,7 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="XDebugger.MoveWatchDown" />
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
