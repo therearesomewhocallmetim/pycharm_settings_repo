@@ -13,6 +13,7 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" second-keystroke="enter" />
   </action>
+  <action id="CollapseBlock" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.NextChange" />
@@ -98,7 +99,7 @@
     <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta comma" />
+    <keyboard-shortcut first-keystroke="shift meta less" />
   </action>
   <action id="QuickActionPopup" />
   <action id="RecentProjectListGroup">
@@ -129,4 +130,5 @@
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
   <action id="org.jetbrains.r.actions.DebugSelection" />
+  <action id="org.jetbrains.r.console.RConsoleView.REofAction" />
 </keymap>
