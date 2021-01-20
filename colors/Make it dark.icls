@@ -4,17 +4,17 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-01-15T14:45:23</property>
+    <property name="modified">2020-03-10T15:48:55</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Avenir Next Cyr" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="495246" />
-    <option name="ANNOTATIONS_COLOR" value="8ea489" />
     <option name="CARET_COLOR" value="a6b99d" />
     <option name="CARET_ROW_COLOR" value="2b2e34" />
     <option name="CONSOLE_BACKGROUND_KEY" value="333941" />
@@ -35,11 +35,6 @@
     <option name="SELECTION_FOREGROUND" value="282b31" />
     <option name="SEPARATOR_BELOW_COLOR" value="8f8f7f" />
     <option name="TEARLINE_COLOR" value="3b4a4b" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="625c49" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="2d383c" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="574962" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="3b2c36" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="5f4646" />
     <option name="VISUAL_INDENT_GUIDE" value="828b9f" />
     <option name="WHITESPACES" value="" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="403948" />
