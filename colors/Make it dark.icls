@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-02-02T17:03:12</property>
+    <property name="modified">2021-02-02T18:41:23</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -322,6 +322,18 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="7e7880" />
+      </value>
+    </option>
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="a89f8f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="5e9d5d" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
