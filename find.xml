@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="test*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -15,7 +16,6 @@
     <mask>urls*py</mask>
     <mask>*.json</mask>
     <mask>*py</mask>
-    <mask>test*.py</mask>
     <mask>.md</mask>
     <mask>*.yaml</mask>
     <mask>__init__.py</mask>
@@ -27,5 +27,6 @@
     <mask>urls*.py</mask>
     <mask>*.py</mask>
     <mask>*.proto</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
