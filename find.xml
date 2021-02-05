@@ -4,9 +4,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="test*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -24,9 +27,9 @@
     <mask>ya.make</mask>
     <mask>test_*.py</mask>
     <mask>urls*.py</mask>
-    <mask>test*.py</mask>
     <mask>*.proto</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
