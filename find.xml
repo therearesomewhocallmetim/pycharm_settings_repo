@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>urls.py</mask>
@@ -22,9 +21,10 @@
     <mask>urls*.py</mask>
     <mask>test*.py</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.pyi</mask>
     <mask>*.proto</mask>
     <mask>*.py</mask>
+    <mask>*.html</mask>
+    <mask>*.js</mask>
   </component>
 </application>
