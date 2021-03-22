@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="test*.py" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
@@ -28,7 +28,7 @@
     <mask>*.pyi</mask>
     <mask>*.py</mask>
     <mask>*.lua</mask>
-    <mask>*.yml</mask>
     <mask>test*.py</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
