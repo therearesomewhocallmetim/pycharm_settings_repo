@@ -23,12 +23,12 @@
     <mask>test_*.py</mask>
     <mask>urls*.py</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
-    <mask>*.proto</mask>
     <mask>*.pyi</mask>
     <mask>test*.py</mask>
     <mask>*.yml</mask>
     <mask>*.lua</mask>
+    <mask>*.js</mask>
+    <mask>*.proto</mask>
     <mask>*.py</mask>
   </component>
 </application>
