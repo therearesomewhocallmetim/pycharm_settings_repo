@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-02-15T12:36:44</property>
+    <property name="modified">2021-05-13T13:28:14</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -35,6 +35,7 @@
     <option name="SELECTION_FOREGROUND" value="282b31" />
     <option name="SEPARATOR_BELOW_COLOR" value="8f8f7f" />
     <option name="TEARLINE_COLOR" value="3b4a4b" />
+    <option name="TOOLTIP" value="4c5053" />
     <option name="VISUAL_INDENT_GUIDE" value="828b9f" />
     <option name="WHITESPACES" value="" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="403948" />
@@ -317,6 +318,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="282c34" />
+      </value>
+    </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="7a7a7a" />
+        <option name="BACKGROUND" value="3d434c" />
       </value>
     </option>
     <option name="JAVA_KEYWORD">
