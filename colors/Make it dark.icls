@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2021-05-13T13:28:14</property>
+    <property name="modified">2021-05-14T08:29:41</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -19,6 +19,7 @@
     <option name="CARET_ROW_COLOR" value="2b2e34" />
     <option name="CONSOLE_BACKGROUND_KEY" value="333941" />
     <option name="DELETED_LINES_COLOR" value="4b2b2f" />
+    <option name="DOCUMENTATION_COLOR" value="48384a" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="244c79" />
     <option name="GUTTER_BACKGROUND" value="363a43" />
     <option name="INDENT_GUIDE" value="344142" />
