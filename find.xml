@@ -27,8 +27,8 @@
     <mask>*.html</mask>
     <mask>*.lua</mask>
     <mask>*.yml</mask>
-    <mask>*.txt</mask>
     <mask>*.proto</mask>
+    <mask>*.txt</mask>
     <mask>*.py</mask>
   </component>
 </application>
