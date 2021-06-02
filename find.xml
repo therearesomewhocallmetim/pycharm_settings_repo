@@ -23,10 +23,10 @@
     <mask>test*.py</mask>
     <mask>*.html</mask>
     <mask>*.lua</mask>
-    <mask>*.proto</mask>
     <mask>*.txt</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.proto</mask>
     <mask>*.py</mask>
   </component>
 </application>
