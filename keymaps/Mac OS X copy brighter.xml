@@ -106,6 +106,10 @@
     <keyboard-shortcut first-keystroke="shift meta alt o" />
   </action>
   <action id="Refresh" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="ResizeToolWindowUp" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl s" />
