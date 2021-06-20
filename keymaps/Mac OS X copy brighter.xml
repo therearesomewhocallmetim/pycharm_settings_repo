@@ -13,12 +13,19 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" second-keystroke="enter" />
   </action>
+  <action id="CollapseBlock" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -70,6 +77,7 @@
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
@@ -82,6 +90,8 @@
     <keyboard-shortcut first-keystroke="meta f3" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="MoveLineDown" />
+  <action id="MoveLineUp" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
@@ -91,10 +101,15 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
+  <action id="QuickActionPopup" />
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift meta alt o" />
   </action>
   <action id="Refresh" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
+  <action id="ResizeToolWindowUp" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl s" />
@@ -108,10 +123,16 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="meta alt enter" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="XDebugger.MoveWatchDown" />
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
+  <action id="org.jetbrains.r.actions.DebugSelection" />
+  <action id="org.jetbrains.r.console.RConsoleView.REofAction" />
 </keymap>
