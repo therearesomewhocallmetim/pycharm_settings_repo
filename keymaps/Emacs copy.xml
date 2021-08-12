@@ -2,6 +2,7 @@
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="CloseActiveTab" />
   <action id="CommentByBlockComment" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
@@ -12,6 +13,7 @@
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="EditorKillRingSave" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
