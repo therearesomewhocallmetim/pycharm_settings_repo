@@ -17,7 +17,7 @@
     <exec>
       <option name="COMMAND" value="stunnel4" />
       <option name="PARAMETERS" value="stunnel/dev_https &amp;" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/projects/serverside/localads_billing" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/tdanshin/Documents/projects/serverside/localads_billing" />
     </exec>
   </tool>
   <tool name="Flake8" description="Flake8 for PyCharm" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">

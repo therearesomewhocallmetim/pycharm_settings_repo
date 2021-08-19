@@ -1,0 +1,24 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CommentByBlockComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="EditorKillRingSave" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="x" />
+  </action>
+  <action id="NextOccurence" />
+</keymap>
