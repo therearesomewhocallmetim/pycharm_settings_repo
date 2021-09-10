@@ -3,9 +3,10 @@
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="CloseActiveTab" />
+  <action id="CodeCompletion" />
   <action id="CommentByBlockComment" />
   <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
@@ -20,5 +21,6 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="x" />
   </action>
+  <action id="HippieCompletion" />
   <action id="NextOccurence" />
 </keymap>
