@@ -10,6 +10,7 @@
       <mapping pattern=".flake8-tests" type="PLAIN_TEXT" />
       <mapping pattern=".flake8" type="PLAIN_TEXT" />
       <mapping ext="stew" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="Shell Script" />
       <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping ext="txt" approved="true" type="requirements.txt" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
