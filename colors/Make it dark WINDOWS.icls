@@ -4,7 +4,7 @@
     <property name="created">2021-08-31T08:55:56</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-31T08:55:56</property>
+    <property name="modified">2021-11-26T21:13:44</property>
     <property name="originalScheme">Make it dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -185,6 +185,12 @@
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="97a88f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="d9c96" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -556,6 +562,7 @@
     <option name="PY.FSTRING_FRAGMENT_TYPE_CONVERSION">
       <value>
         <option name="FOREGROUND" value="7b8975" />
+        <option name="BACKGROUND" value="47525a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
