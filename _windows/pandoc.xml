@@ -1,0 +1,5 @@
+<application>
+  <component name="Pandoc.Application.Settings">
+    <option name="myPathToImages" value="$USER_HOME$/OneDrive - Intel Corporation/Documents/work/validation_tools/bomchecker/import-resources" />
+  </component>
+</application>
