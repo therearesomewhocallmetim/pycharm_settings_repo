@@ -18,6 +18,9 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="g" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="x" />
   </action>
