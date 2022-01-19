@@ -117,6 +117,12 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
   <action id="MoveTabRight">
@@ -166,6 +172,7 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="UsageFiltering.Imports" />
   <action id="UsageFiltering.WriteAccess" />
   <action id="UsageGrouping.Directory" />
   <action id="Vcs.Log.ShowTooltip">
