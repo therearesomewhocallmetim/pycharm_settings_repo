@@ -1,8 +1,65 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+  </action>
+  <action id="EditorJoinLines" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="ForceOthersToFollowAction" />
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="GotoFile" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="Hg.Commit.And.Push.Executor" />
+  <action id="Macro.0">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="Macro.1">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="Macro.2">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
+  <action id="Macro.3">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Macro.4">
+    <keyboard-shortcut first-keystroke="shift ctrl j" />
+  </action>
+  <action id="Macro.5">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="Macro.6">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="Macro.7">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="Macro.8">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="Macro.9">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="Macro.quote">
+    <keyboard-shortcut first-keystroke="meta alt j" />
+  </action>
+  <action id="Macro.underscore">
+    <keyboard-shortcut first-keystroke="meta alt space" />
+  </action>
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="shift meta alt m" />
+  </action>
+  <action id="SurroundWithLiveTemplate" />
 </keymap>

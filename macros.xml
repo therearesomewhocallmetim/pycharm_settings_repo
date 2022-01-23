@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="quote">
+      <typing text-keycode="152:1">&quot;</typing>
+    </macro>
+    <macro name="colon">
+      <typing text-keycode="513:1">:</typing>
+    </macro>
+    <macro name="underscore">
+      <typing text-keycode="523:1">_</typing>
+    </macro>
+    <macro name="1">
+      <typing text-keycode="49:0">1</typing>
+    </macro>
+    <macro name="2">
+      <typing text-keycode="50:0">2</typing>
+    </macro>
+    <macro name="3">
+      <typing text-keycode="51:0">3</typing>
+    </macro>
+    <macro name="4">
+      <typing text-keycode="52:0">4</typing>
+    </macro>
+    <macro name="5">
+      <typing text-keycode="53:0">5</typing>
+    </macro>
+    <macro name="6">
+      <typing text-keycode="54:0">6</typing>
+    </macro>
+    <macro name="7">
+      <typing text-keycode="55:0">7</typing>
+    </macro>
+    <macro name="8">
+      <typing text-keycode="56:0">8</typing>
+    </macro>
+    <macro name="9">
+      <typing text-keycode="57:0">9</typing>
+    </macro>
+    <macro name="0">
+      <typing text-keycode="48:0">0</typing>
+    </macro>
+  </component>
+</application>
