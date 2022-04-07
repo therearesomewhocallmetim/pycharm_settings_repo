@@ -6,6 +6,12 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ChangesView.GroupBy.Directory" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
@@ -27,6 +33,9 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
+  <action id="EditorCutLineBackward">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
@@ -34,9 +43,13 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorDeleteToWordStart">
-    <keyboard-shortcut first-keystroke="alt back_space" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift down" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="EditorKillToWordEnd">
     <keyboard-shortcut first-keystroke="alt d" />
@@ -61,18 +74,14 @@
     <keyboard-shortcut first-keystroke="meta page_up" />
     <keyboard-shortcut first-keystroke="alt comma" />
   </action>
-  <action id="EditorNextWordInDifferentHumpsMode">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-  </action>
-  <action id="EditorNextWordInDifferentHumpsModeWithSelection">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-  </action>
   <action id="EditorPreviousWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
@@ -84,17 +93,45 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift meta semicolon" />
   </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="ExportToTextFile" />
   <action id="ExpressionTypeInfo" />
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta f3" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="MoveLineDown" />
   <action id="MoveLineUp" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="NewScratchFile" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
@@ -102,6 +139,9 @@
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
   <action id="QuickActionPopup" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="shift meta alt o" />
   </action>
@@ -113,6 +153,9 @@
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl s" />
+  </action>
+  <action id="ServiceView.AddService">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShowContent" />
@@ -129,6 +172,14 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="UsageFiltering.Imports" />
+  <action id="UsageFiltering.WriteAccess" />
+  <action id="UsageGrouping.Directory" />
+  <action id="Vcs.Log.ShowTooltip">
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.UpdateProject" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="com.jetbrains.python.console.RunPythonConsoleAction">
     <keyboard-shortcut first-keystroke="alt f11" />
