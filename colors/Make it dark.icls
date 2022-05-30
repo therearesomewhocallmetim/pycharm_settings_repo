@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2022-05-30T23:05:28</property>
+    <property name="modified">2022-05-30T23:16:01</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -766,8 +766,14 @@
     </option>
     <option name="org.rust.ENUM">
       <value>
-        <option name="FOREGROUND" value="ecb160" />
+        <option name="FOREGROUND" value="ac8955" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.ENUM_VARIANT">
+      <value>
+        <option name="FOREGROUND" value="c19e6f" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.FIELD">
@@ -795,6 +801,12 @@
         <option name="FOREGROUND" value="adccff" />
       </value>
     </option>
+    <option name="org.rust.MUT_BINDING">
+      <value>
+        <option name="FOREGROUND" value="b4bcd0" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="org.rust.STRING">
       <value>
         <option name="FOREGROUND" value="97a88f" />
@@ -802,25 +814,30 @@
     </option>
     <option name="org.rust.STRUCT">
       <value>
-        <option name="FOREGROUND" value="b9cdaf" />
+        <option name="FOREGROUND" value="83a874" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="org.rust.TRAIT">
       <value>
-        <option name="FOREGROUND" value="afdea4" />
+        <option name="FOREGROUND" value="83a874" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.TYPE_ALIAS">
       <value>
-        <option name="FOREGROUND" value="b9cdaf" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="83a874" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="org.rust.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="d99ed8" />
+      </value>
+    </option>
+    <option name="org.rust.VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="c6b4d0" />
       </value>
     </option>
   </attributes>
