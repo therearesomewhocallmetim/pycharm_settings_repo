@@ -4,12 +4,12 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2022-06-03T21:33:32</property>
+    <property name="modified">2022-06-03T23:06:58</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="19" />
+  <option name="EDITOR_FONT_SIZE" value="22" />
   <option name="EDITOR_FONT_NAME" value="Inria Sans" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
