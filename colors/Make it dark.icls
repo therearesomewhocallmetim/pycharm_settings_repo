@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2022-06-04T09:16:36</property>
+    <property name="modified">2022-06-04T09:23:44</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -12,8 +12,8 @@
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Inria Sans" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="22" />
+  <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="495246" />
     <option name="CARET_COLOR" value="a6b99d" />
