@@ -4,13 +4,13 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2022-06-05T14:34:03</property>
+    <property name="modified">2022-06-05T22:05:55</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Inria Sans" />
+  <option name="EDITOR_FONT_NAME" value="Avenir Next Cyr" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
