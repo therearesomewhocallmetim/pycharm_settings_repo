@@ -4,7 +4,7 @@
     <property name="created">2019-12-13T23:44:47</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2022-08-16T13:05:55</property>
+    <property name="modified">2022-09-15T11:59:52</property>
     <property name="originalScheme">Default copy</property>
     <property name="rainbow Python">false</property>
   </metaInfo>
@@ -400,6 +400,9 @@
       <value>
         <option name="FOREGROUND" value="8fa2a8" />
       </value>
+    </option>
+    <option name="MAKEFILE_TAB">
+      <value />
     </option>
     <option name="MARKDOWN_BOLD">
       <value>
