@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="test*.py" />
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
@@ -18,7 +19,6 @@
     <mask>test_*.py</mask>
     <mask>urls*.py</mask>
     <mask>*.pyi</mask>
-    <mask>test*.py</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.txt</mask>
@@ -28,5 +28,6 @@
     <mask>*.yml</mask>
     <mask>*.yaml</mask>
     <mask>*.py</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
