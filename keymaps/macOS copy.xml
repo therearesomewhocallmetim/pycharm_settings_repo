@@ -11,6 +11,7 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta w" second-keystroke="enter" />
   </action>
+  <action id="Console.TableResult.SetNull" />
   <action id="Debug" />
   <action id="Editor Delete">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -39,6 +40,7 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="Hg.Commit.And.Push.Executor" />
+  <action id="Inline" />
   <action id="Macro.0">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
@@ -74,6 +76,9 @@
   </action>
   <action id="Macro.underscore">
     <keyboard-shortcut first-keystroke="meta alt space" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="meta alt n" />
   </action>
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="shift meta alt m" />
