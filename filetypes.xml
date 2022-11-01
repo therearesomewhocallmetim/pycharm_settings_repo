@@ -4,5 +4,10 @@
     <extensionMap>
       <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
+    <extensionMap>
+      <mapping ext="srcjar" type="ARCHIVE" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+    </extensionMap>
   </component>
 </application>
