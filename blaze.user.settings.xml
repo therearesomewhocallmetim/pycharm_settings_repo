@@ -1,7 +1,6 @@
 <application>
   <component name="BlazeUserSettings">
     <option name="buildifierBinaryPath" value="/usr/local/bin/buildifier" />
-    <option name="formatBuildFilesOnSave" value="false" />
     <option name="syncStatusPopupShown" value="true" />
   </component>
 </application>
