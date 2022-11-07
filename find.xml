@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="test*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -12,5 +13,6 @@
     <mask>*.py</mask>
     <mask>test_*.py</mask>
     <mask>conftest*.py</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
