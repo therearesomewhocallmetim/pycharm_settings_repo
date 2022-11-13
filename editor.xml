@@ -1,8 +1,21 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="false" />
     <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+    <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
+  </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="" />
   </component>
 </application>

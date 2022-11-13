@@ -1,6 +1,6 @@
 <application>
   <component name="BlazeUserSettings">
-    <option name="buildifierBinaryPath" value="$USER_HOME$/.bazel_downloads_by_me/buildifier-darwin-arm64" />
+    <option name="buildifierBinaryPath" value="/usr/local/bin/buildifier" />
     <option name="syncStatusPopupShown" value="true" />
   </component>
 </application>
