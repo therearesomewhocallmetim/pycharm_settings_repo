@@ -1,6 +1,6 @@
 <application>
   <component name="BlazeUserSettings">
-    <option name="buildifierBinaryPath" value="/usr/local/bin/buildifier" />
+    <option name="buildifierBinaryPath" value="$USER_HOME$/go/bin/buildifier" />
     <option name="syncStatusPopupShown" value="true" />
   </component>
 </application>
