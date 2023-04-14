@@ -19,5 +19,6 @@
     <mask>*.py</mask>
     <mask>*.yaml</mask>
     <mask>test_*.py</mask>
+    <mask>Dockerfile</mask>
   </component>
 </application>
