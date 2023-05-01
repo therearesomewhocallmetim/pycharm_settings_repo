@@ -1,9 +1,9 @@
 <application>
   <component name="BlazeWizardUserSettings">
     <settings>
-      <entry key="blaze-wizard.last-imported-bazel-workspace" value="$USER_HOME$/Work/bazel_try/py_2::/Users/dtv/Work/bazel_try/bazel_py_try" />
+      <entry key="blaze-wizard.last-imported-bazel-workspace" value="$USER_HOME$/Work/rules_python::/Users/t.danshin/Work/bazel_try/py_2::/Users/dtv/Work/bazel_try/bazel_py_try" />
       <entry key="generate-from-build-file.last-workspace-path" value="BUILD.bazel" />
-      <entry key="select-project-view.selected-option" value="generate-from-build-file" />
+      <entry key="select-project-view.selected-option" value="create-from-scratch" />
       <entry key="select-workspace.selected-option" value="use-existing-bazel-workspace" />
     </settings>
   </component>

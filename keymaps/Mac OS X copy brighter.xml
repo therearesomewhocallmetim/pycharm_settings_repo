@@ -6,6 +6,9 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="alt f11" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl meta close_bracket" />
+  </action>
   <action id="Arrangement.Alias.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
