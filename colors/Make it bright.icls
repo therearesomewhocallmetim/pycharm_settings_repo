@@ -4,7 +4,7 @@
     <property name="created">2023-04-21T17:46:41</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2023-05-23T12:58:30</property>
+    <property name="modified">2023-05-23T13:51:45</property>
     <property name="originalScheme">Make it dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -24,7 +24,7 @@
     <option name="ADDED_LINES_COLOR" value="495246" />
     <option name="CARET_COLOR" value="a6b99d" />
     <option name="CARET_ROW_COLOR" value="f1e8e4" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="333941" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="f8f2ef" />
     <option name="DELETED_LINES_COLOR" value="4b2b2f" />
     <option name="DOCUMENTATION_COLOR" value="f1e6f6" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="244c79" />
@@ -103,12 +103,18 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a88f8f" />
+        <option name="FOREGROUND" value="340b0b" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="67d17" />
+        <option name="BACKGROUND" value="f8f2ef" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="acc6a5" />
+        <option name="FOREGROUND" value="19440f" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
