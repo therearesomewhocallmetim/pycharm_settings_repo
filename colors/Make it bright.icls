@@ -4,7 +4,7 @@
     <property name="created">2023-04-21T17:46:41</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2023-05-23T13:51:45</property>
+    <property name="modified">2023-05-24T16:38:58</property>
     <property name="originalScheme">Make it dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -30,7 +30,7 @@
     <option name="FOLDED_TEXT_BORDER_COLOR" value="244c79" />
     <option name="GUTTER_BACKGROUND" value="363a43" />
     <option name="INDENT_GUIDE" value="fae4d6" />
-    <option name="INFORMATION_HINT" value="5b5b3b" />
+    <option name="INFORMATION_HINT" value="e3cac7" />
     <option name="LINE_NUMBERS_COLOR" value="8894a3" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="b25214" />
     <option name="LOOKUP_COLOR" value="e9e0ff" />
