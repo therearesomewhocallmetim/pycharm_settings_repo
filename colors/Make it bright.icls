@@ -4,7 +4,7 @@
     <property name="created">2023-04-21T17:46:41</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2022.2.1.0.0</property>
-    <property name="modified">2023-05-24T16:38:58</property>
+    <property name="modified">2023-06-06T17:45:53</property>
     <property name="originalScheme">Make it dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -55,7 +55,7 @@
   <attributes>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3d4c56" />
+        <option name="BACKGROUND" value="fae4d6" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
