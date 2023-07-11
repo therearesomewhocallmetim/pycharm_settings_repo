@@ -4,6 +4,7 @@
       <w>conftest</w>
       <w>multiproducer</w>
       <w>mypyc</w>
+      <w>opentelemetry</w>
       <w>talkbot</w>
       <w>traceparent</w>
     </words>
