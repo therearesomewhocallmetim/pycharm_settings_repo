@@ -5,6 +5,7 @@
       <w>multiproducer</w>
       <w>mypyc</w>
       <w>talkbot</w>
+      <w>traceparent</w>
     </words>
   </component>
 </application>
