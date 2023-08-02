@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="conftest.py" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -20,7 +20,7 @@
     <mask>*.bazel</mask>
     <mask>*.yml</mask>
     <mask>test*.py</mask>
-    <mask>*.py</mask>
     <mask>conftest.py</mask>
+    <mask>*.py</mask>
   </component>
 </application>
