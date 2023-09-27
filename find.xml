@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
@@ -22,6 +20,7 @@
     <mask>pyproject.toml</mask>
     <mask>conftest.py</mask>
     <mask>test_*.py</mask>
+    <mask>*.md</mask>
     <mask>*.py</mask>
   </component>
 </application>
