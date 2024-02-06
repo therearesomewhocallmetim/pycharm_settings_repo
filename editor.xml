@@ -20,7 +20,7 @@
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="" />
+    <option name="lastViewedProviderKeyId" value="Markdown.MarkdownTableInlayProviderSettingsKey" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
