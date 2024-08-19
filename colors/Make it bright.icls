@@ -7,9 +7,15 @@
     <property name="modified">2023-07-19T12:31:00</property>
     <property name="originalScheme">Make it dark</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Avenir Next Cyr" />
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Zen Kaku Gothic Antique" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Avenir Next Cyr" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="NotoSansMono Nerd Font" />
@@ -20,6 +26,7 @@
     <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="495246" />
     <option name="CARET_COLOR" value="a6b99d" />
