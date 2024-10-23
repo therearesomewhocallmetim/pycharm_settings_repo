@@ -10,6 +10,7 @@
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="EDITOR_FONT_NAME" value="Avenir Next Cyr" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="NotoSansMono Nerd Font" />
     <option name="EDITOR_FONT_SIZE" value="16" />
