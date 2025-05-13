@@ -15,17 +15,17 @@
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="e6e6ed" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="f8f8ff" />
-    <option name="GUTTER_BACKGROUND" value="fef5f3" />
-    <option name="INDENT_GUIDE" value="bfbfbf" />
-    <option name="LINE_NUMBERS_COLOR" value="0" />
-    <option name="READONLY_BACKGROUND" value="fef5f3" />
+    <option name="CARET_ROW_COLOR" value="E6E6ED" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="F8F8FF" />
+    <option name="GUTTER_BACKGROUND" value="FEF5F3" />
+    <option name="INDENT_GUIDE" value="BFBFBF" />
+    <option name="LINE_NUMBERS_COLOR" value="000000" />
+    <option name="READONLY_BACKGROUND" value="FEF5F3" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
-    <option name="SELECTED_INDENT_GUIDE" value="bfbfbf" />
-    <option name="SELECTION_BACKGROUND" value="fae084" />
-    <option name="SELECTION_FOREGROUND" value="6d6d6d" />
-    <option name="WHITESPACES" value="bfbfbf" />
+    <option name="SELECTED_INDENT_GUIDE" value="BFBFBF" />
+    <option name="SELECTION_BACKGROUND" value="FAE084" />
+    <option name="SELECTION_FOREGROUND" value="6D6D6D" />
+    <option name="WHITESPACES" value="BFBFBF" />
   </colors>
   <attributes>
     <option name="BREAKPOINT_ATTRIBUTES">

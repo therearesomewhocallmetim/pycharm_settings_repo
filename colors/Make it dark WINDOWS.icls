@@ -15,31 +15,31 @@
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="495246" />
-    <option name="CARET_COLOR" value="a6b99d" />
-    <option name="CARET_ROW_COLOR" value="2b2e34" />
+    <option name="CARET_COLOR" value="A6B99D" />
+    <option name="CARET_ROW_COLOR" value="2B2E34" />
     <option name="CONSOLE_BACKGROUND_KEY" value="333941" />
-    <option name="DELETED_LINES_COLOR" value="4b2b2f" />
-    <option name="DOCUMENTATION_COLOR" value="48384a" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="244c79" />
-    <option name="GUTTER_BACKGROUND" value="363a43" />
+    <option name="DELETED_LINES_COLOR" value="4B2B2F" />
+    <option name="DOCUMENTATION_COLOR" value="48384A" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="244C79" />
+    <option name="GUTTER_BACKGROUND" value="363A43" />
     <option name="INDENT_GUIDE" value="344142" />
-    <option name="INFORMATION_HINT" value="5b5b3b" />
-    <option name="LINE_NUMBERS_COLOR" value="8894a3" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="b39f8e" />
+    <option name="INFORMATION_HINT" value="5B5B3B" />
+    <option name="LINE_NUMBERS_COLOR" value="8894A3" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="B39F8E" />
     <option name="LOOKUP_COLOR" value="405663" />
-    <option name="MODIFIED_LINES_COLOR" value="3c4c69" />
-    <option name="MODIFIED_TAB_ICON" value="63afff" />
-    <option name="NOTIFICATION_BACKGROUND" value="3b4a4b" />
-    <option name="QUESTION_HINT" value="4b2b2f" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="84937d" />
-    <option name="RIGHT_MARGIN_COLOR" value="828b9f" />
-    <option name="SELECTED_INDENT_GUIDE" value="7ea9db" />
-    <option name="SELECTION_BACKGROUND" value="8f9fa8" />
-    <option name="SELECTION_FOREGROUND" value="282b31" />
-    <option name="SEPARATOR_BELOW_COLOR" value="8f8f7f" />
-    <option name="TEARLINE_COLOR" value="3b4a4b" />
-    <option name="TOOLTIP" value="4c5053" />
-    <option name="VISUAL_INDENT_GUIDE" value="828b9f" />
+    <option name="MODIFIED_LINES_COLOR" value="3C4C69" />
+    <option name="MODIFIED_TAB_ICON" value="63AFFF" />
+    <option name="NOTIFICATION_BACKGROUND" value="3B4A4B" />
+    <option name="QUESTION_HINT" value="4B2B2F" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="84937D" />
+    <option name="RIGHT_MARGIN_COLOR" value="828B9F" />
+    <option name="SELECTED_INDENT_GUIDE" value="7EA9DB" />
+    <option name="SELECTION_BACKGROUND" value="8F9FA8" />
+    <option name="SELECTION_FOREGROUND" value="282B31" />
+    <option name="SEPARATOR_BELOW_COLOR" value="8F8F7F" />
+    <option name="TEARLINE_COLOR" value="3B4A4B" />
+    <option name="TOOLTIP" value="4C5053" />
+    <option name="VISUAL_INDENT_GUIDE" value="828B9F" />
     <option name="WHITESPACES" value="" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="403948" />
   </colors>

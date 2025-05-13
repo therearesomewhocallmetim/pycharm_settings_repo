@@ -26,6 +26,43 @@
           "weight": 0.2
         },
         {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Python Packages",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.1
+        },
+        {
+          "id": "Python Console",
+          "order": 6,
+          "anchor": "BOTTOM",
+          "weight": 0.1
+        },
+        {
           "id": "Notifications",
           "order": 0,
           "anchor": "RIGHT",
@@ -66,43 +103,6 @@
           "id": "Plots",
           "order": 6,
           "anchor": "RIGHT",
-          "weight": 0.1
-        },
-        {
-          "id": "Version Control",
-          "order": 0,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Problems",
-          "order": 1,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Problems View",
-          "order": 2,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Terminal",
-          "order": 3,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Services",
-          "order": 4,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Python Packages",
-          "order": 5,
-          "anchor": "BOTTOM",
-          "weight": 0.1
-        },
-        {
-          "id": "Python Console",
-          "order": 6,
-          "anchor": "BOTTOM",
           "weight": 0.1
         }
       ]
