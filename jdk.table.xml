@@ -1950,18 +1950,32 @@
     <jdk version="2">
       <name value="Python 3.12 (problem)" />
       <type value="Python SDK" />
-      <version value="Python 3.12.3" />
+      <version value="Python 3.11.4" />
       <homePath value="$USER_HOME$/Work/problemos/problem/.venv/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/.pyenv/versions/3.12.3/lib/python3.12" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/3.12.3/lib/python3.12/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/Work/problemos/problem/.venv/lib/python3.12/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.11.4/lib/python3.11" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.11.4/lib/python3.11/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Work/problemos/problem/.venv/lib/python3.11/site-packages" type="simple" />
             <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/python_stubs/-965069196" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/flake8" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/psycopg2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyflakes" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Deprecated" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/SQLAlchemy" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pep8-naming" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/flake8-builtins" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pytest-lazy-fixture" type="simple" />
           </root>
         </classPath>
         <sourcePath>
