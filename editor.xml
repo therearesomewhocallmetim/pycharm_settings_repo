@@ -25,4 +25,7 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="Markdown.MarkdownTableInlayProviderSettingsKey" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
 </application>
