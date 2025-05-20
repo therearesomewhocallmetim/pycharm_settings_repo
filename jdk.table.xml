@@ -2060,5 +2060,30 @@
         </targetEnvironmentConfiguration>
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="Poetry (data-collectors)" />
+      <type value="Python SDK" />
+      <version value="Python 3.13.1" />
+      <homePath value="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/data-collectors-TfKfJXUr-py3.13/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13" type="simple" />
+            <root url="file:///opt/homebrew/Cellar/python@3.13/3.13.1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/pypoetry/virtualenvs/data-collectors-TfKfJXUr-py3.13/lib/python3.13/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/python_stubs/-1735947051" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Work/problemos/data-collectors" SDK_UUID="ddb995d7-ba9e-4beb-bf4d-94822816f533" IS_POETRY="true">
+        <setting name="FLAVOR_ID" value="PyPoetrySdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
   </component>
 </application>
