@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="19">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern=".env2" type=".env file" />
       <mapping pattern=".env_2" type=".env file" />
       <mapping ext="srcjar" type="ARCHIVE" />
       <mapping pattern="maas_machines_op_detail" type="AUTO_DETECTED" />
