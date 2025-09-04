@@ -2311,5 +2311,35 @@
         <setting name="FLAVOR_DATA" value="{}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="Python 3.12 virtualenv at ~/Work/problemos/cicd/.venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.12.3" />
+      <homePath value="$USER_HOME$/Work/problemos/cicd/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.pyenv/versions/3.12.3/lib/python3.12" type="simple" />
+            <root url="file://$USER_HOME$/.pyenv/versions/3.12.3/lib/python3.12/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Work/problemos/cicd/.venv/lib/python3.12/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/JetBrains/PyCharm2025.1/python_stubs/1916246816" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/toml" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/PyYAML" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="6928ea5e-6c67-4ef0-825f-601fd6a66993">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
   </component>
 </application>
